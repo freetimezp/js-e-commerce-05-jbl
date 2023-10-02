@@ -845,4 +845,8 @@ img {
   .footer__copy {
     margin-top: 7.5rem;
   }
+
+  .scrollup {
+    right: 3rem;
+  }
 }
